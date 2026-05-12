@@ -41,7 +41,7 @@ Currently improving my skills in Selenium, Postman, and software testing best pr
 
 # 📂 QA Portfolio Projects
 
-## 1. API Testing Project
+## 1. Website Testing Project
 
 ### Description
 
